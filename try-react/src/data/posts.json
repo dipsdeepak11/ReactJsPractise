@@ -1,0 +1,17 @@
+[
+{
+  "id":1,
+  "title":"Hello World",
+  "content":"Try Reactjs is awesome.Can't wait to learn react",
+  "slug":"hello-world"
+},
+{
+  "id":2,
+  "title":"Setup React",
+  "content":"Setting up of react is done which is not that hard.",
+  "slug":"setup-react"
+
+}
+
+
+]
